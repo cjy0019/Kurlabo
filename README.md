@@ -14,6 +14,10 @@ BackEnd와 FrontEnd의 **협업**으로 완성한 클론 프로젝트입니다. 
 
 ![Kurlabo-Preview.gif](https://github.com/cjy0019/cjy0019.github.io/blob/master/images/Kurlabo-Preview.gif?raw=true)
 
+## 프로젝트 기간
+
+2021.01.25 - 2021.02.26 (5주)
+
 
 
 ## 라이브러리
