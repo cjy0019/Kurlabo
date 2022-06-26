@@ -30,7 +30,6 @@ BackEnd와 FrontEnd의 **협업**으로 완성한 클론 프로젝트입니다. 
 - Redux-Saga, Thunk
 - TailwindCSS
 - axios
-- React-aria-modal
 
 
 
@@ -61,7 +60,7 @@ $ npm run start
 - 박상언 
 - 조재연 
 - 백나라
--  정세영
+- 정세영
 
 <br>
 
